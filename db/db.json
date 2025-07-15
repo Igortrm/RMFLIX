@@ -1,0 +1,283 @@
+{
+  "filmes": [
+    {
+      "id": "1",
+      "titulo": "Oppenheimer",
+      "descricao": "A história do físico J. Robert Oppenheimer e seu papel no desenvolvimento da bomba atômica.",
+      "imagem": "assets/Imagens/Oppenheimer-2.webp",
+      "produtor": "Christopher Nolan",
+      "ano": 2023,
+      "genero": "Drama, História",
+      "duracao": "3h",
+      "fotos": [
+        {
+          "titulo": "",
+          "url": "assets/Imagens/oppenheimer-cillian-murphy-1.jpg"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/op1.jpeg"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/Oppenheimer-3.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/Oppenheimer.webp"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "titulo": "Barbie",
+      "descricao": "Barbie embarca em uma jornada no mundo real após uma crise existencial.",
+      "imagem": "assets/Imagens/ba1.webp",
+      "produtor": "Greta Gerwig",
+      "ano": 2023,
+      "genero": "Comédia, Fantasia",
+      "duracao": "1h 54min",
+      "fotos": [
+        {
+          "titulo": "",
+          "url": "assets/Imagens/ba2.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/ba3.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/ba4.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/b5.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "titulo": "Missão: Impossível - Acerto de Contas Parte Um",
+      "descricao": "Ethan Hunt e sua equipe enfrentam sua missão mais perigosa até agora.",
+      "imagem": "assets/Imagens/mi1.jpg",
+      "produtor": "Christopher McQuarrie",
+      "ano": 2023,
+      "genero": "Ação, Suspense",
+      "duracao": "2h 43min",
+      "fotos": [
+        {
+          "titulo": "",
+          "url": "assets/Imagens/mi2.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/mi3.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/mi4.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/mi5.webp"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "titulo": "Duna: Parte Dois",
+      "descricao": "Paul Atreides se une aos Fremen para buscar vingança contra os conspiradores que destruíram sua família.",
+      "imagem": "assets/Imagens/dn1.webp",
+      "produtor": "Denis Villeneuve",
+      "ano": 2024,
+      "genero": "Ficção Científica, Aventura",
+      "duracao": "2h 46min",
+      "fotos": [
+        {
+          "titulo": "",
+          "url": "assets/Imagens/dn2.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/dn3.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/dn4.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/dn5.webp"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "titulo": "Homem-Aranha: Através do Aranhaverso",
+      "descricao": "Miles Morales embarca em uma aventura multiversal com outros Homens-Aranha.",
+      "imagem": "assets/Imagens/ha4.webp",
+      "produtor": "Joaquim Dos Santos",
+      "ano": 2023,
+      "genero": "Animação, Ação",
+      "duracao": "2h 20min",
+      "fotos": [
+        {
+          "titulo": "",
+          "url": "assets/Imagens/ha3.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/ha2.jpeg"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/ha1.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/ha5.webp"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "titulo": "John Wick 4: Baba Yaga",
+      "descricao": "John Wick enfrenta o Alto Escalão em sua luta por liberdade definitiva.",
+      "imagem": "assets/Imagens/jw3.jpg",
+      "produtor": "Chad Stahelski",
+      "ano": 2023,
+      "genero": "Ação, Crime",
+      "duracao": "2h 49min",
+      "fotos": [
+        {
+          "titulo": "",
+          "url": "assets/Imagens/jw2.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/jw4.webp"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/jw1.jpg"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/jw5.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "titulo": "Guardians of the Galaxy Vol. 3",
+      "descricao": "Os Guardiões enfrentam novos desafios enquanto tentam salvar o universo em uma aventura épica.",
+      "imagem": "assets/Imagens/gg1.webp",
+      "produtor": "James Gunn",
+      "ano": 2023,
+      "genero": "Aventura, Ação, Ficção Científica",
+      "duracao": "2h 30min",
+      "fotos": [
+        {
+          "titulo": "",
+          "url": "assets/Imagens/gg2.jpg"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/gg3.jpg"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/gg4.jpg"
+        },
+        {
+          "titulo": "",
+          "url": "assets/Imagens/gg5.webp"
+        }
+      ]
+    },
+    {
+      "titulo": "Vingadores: Ultimato ",
+      "produtor": "Anthony Russo, Joe Russo",
+      "ano": "2019",
+      "genero": "Ação, Aventura, Ficção Científica",
+      "duracao": "3h 01min",
+      "descricao": "Os heróis precisam lidar com a dor da perda de amigos e seus entes queridos após Thanos eliminar metade das criaturas vivas em Vingadores.",
+      "imagem": "https://ovicio.com.br/wp-content/uploads/2019/03/20190314-avengers-endgame-poster.jpg",
+      "fotos": [
+        "https://th.bing.com/th/id/OIP.nfBBcV-CTmjZSUe8VsKCWAHaEK?r=0&rs=1&pid=ImgDetMain&cb=idpwebpc1",
+        "https://ogimg.infoglobo.com.br/in/22627053-607-5e5/FT1086A/760/vingadores.jpg",
+        "https://static1.purebreak.com.br/articles/7/85/80/7/@/320902-em-vingadores-ultimato-revemos-a-icon-opengraph_1200-1.jpg",
+        "https://ogimg.infoglobo.com.br/in/23616986-a6f-5d8/FT1086A/760/Vingadores-Ultimato.jpg"
+      ],
+      "id": "8"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Administrador",
+      "login": "adm",
+      "senha": "123",
+      "email": "admin@email.com",
+      "admin": true
+    },
+    {
+      "id": 2,
+      "nome": "Usuario Comum",
+      "login": "user",
+      "senha": "123",
+      "email": "user@email.com",
+      "admin": true
+    },
+    {
+      "id": 3,
+      "nome": "Igor Tiago",
+      "login": "Igor_trm",
+      "senha": "igor123",
+      "email": "igor@123",
+      "admin": true
+    },
+    {
+      "id": "2655",
+      "nome": "Igor Tiago Ribeiro",
+      "login": "i1712",
+      "senha": "igor",
+      "email": "igor@12",
+      "admin": true
+    },
+    {
+      "id": "6478",
+      "nome": "não adm",
+      "login": "nadm",
+      "senha": "123",
+      "email": "nadm@123",
+      "admin": false
+    },
+    {
+      "id": "d250",
+      "nome": "alanzoka",
+      "login": "next",
+      "senha": "123",
+      "email": "alan@123",
+      "admin": false
+    }
+  ],
+  "favoritos": [
+  {
+    "id": 1,
+    "usuarioId": 1,
+    "filmeId": 5
+  },
+  {
+    "id": 2,
+    "usuarioId": 2,
+    "filmeId": 1
+  },
+  {
+    "id": 3,
+    "usuarioId": 3,
+    "filmeId": 1
+  }
+]
+}

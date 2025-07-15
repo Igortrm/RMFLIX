@@ -1,0 +1,136 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #000;
+}
+
+header h1 {
+    color: #fff;
+}
+
+header nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+header nav a:hover {
+    color: #f39c12;
+}
+
+footer{
+    background-color: #191919;
+    
+}
+
+.carousel-inner {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.carousel-caption h5 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.card {
+    background-color: #191919;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+
+.card-body {
+    background-color: #191919;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #cbcbcb;
+}
+
+.card .btn-primary {
+    background-color: #ea6106;
+    border-color: #ffffff;
+}
+
+.card .btn-primary:hover {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.card-img-top {
+    border-radius: 10px;
+}
+
+#detalhes-filme {
+    background-color: #000;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#detalhes-filme h2 {
+    color: #fff;
+}
+
+#detalhes-filme p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+#detalhes-filme img {
+    border-radius: 10px;
+}
+
+#sobre {
+    background-color: #010101;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+#sobre h2 {
+    color: #000000;
+}
+
+#sobre p {
+    color: #070707;
+}
+
+#carouselFilmes {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+#carouselFilmes .carousel-inner {
+    max-height: 600px;
+    overflow: hidden;
+}
+
+#carouselFilmes .carousel-item img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.favorito-icon {
+  color: white;
+}
+
+.favorito-icon.favoritado {
+  color: red;
+}
+label{
+   color: white; 
+}
+h5{
+    color: white; 
+}

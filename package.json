@@ -1,0 +1,14 @@
+{
+  "name": "rmflix",
+  "version": "1.0.0",
+  "description": "Projeto RMFLIX - Trabalho DIW",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db/db.json --port 3001"
+  },
+  "author": "Igor Tiago",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

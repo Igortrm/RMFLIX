@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>RMFLIX - Favoritos</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .card {
+      width: 18rem;
+      margin: 1rem;
+    }
+    .favorito-icon {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 1.5rem;
+      color: red;
+    }
+    .card-img-top {
+      height: 250px;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body>
+  <header class="bg-dark text-white p-3 d-flex justify-content-between align-items-center">
+    <h1 class="m-0">RMFLIX</h1>
+    <nav>
+      <a href="index.html" class="text-white mx-2">Início</a>
+      <a href="cadastro_filmes.html" class="text-white mx-2">Cadastro</a>
+      <a href="favoritos.html" class="text-white mx-2 fw-bold">Favoritos</a>
+      <a href="login.html" class="text-white mx-2">Sair</a>
+    </nav>
+  </header>
+
+  <main class="container my-5">
+    <h2>Meus Filmes Favoritos</h2>
+    <div class="row d-flex flex-wrap">
+
+      <div class="card position-relative">
+        <span class="favorito-icon">❤️</span>
+        <img src="assets/Imagens/Oppenheimer-2.webp" class="card-img-top" alt="Capa do Filme Oppenheimer">
+        <div class="card-body">
+          <h5 class="card-title">Oppenheimer</h5>
+          <p class="card-text">A história do físico J. Robert Oppenheimer e seu papel no desenvolvimento da bomba atômica.</p>
+          <a href="detalhes.html?id=1" class="btn btn-primary">Ver Detalhes</a>
+        </div>
+      </div>
+
+      <div class="card position-relative">
+        <span class="favorito-icon">❤️</span>
+        <img src="assets/Imagens/ha4.webp" class="card-img-top" alt="Capa do Filme Homem-Aranha">
+        <div class="card-body">
+          <h5 class="card-title">Homem-Aranha: Através do Aranhaverso</h5>
+          <p class="card-text">Miles Morales embarca em uma aventura multiversal com outros Homens-Aranha.</p>
+          <a href="detalhes.html?id=5" class="btn btn-primary">Ver Detalhes</a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="bg-dark text-white text-center p-3 mt-5">
+    Desenvolvido por [Seu Nome] • RMFLIX 2025
+  </footer>
+</body>
+</html>
